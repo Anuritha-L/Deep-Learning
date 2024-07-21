@@ -83,6 +83,3 @@ In summary, the synergy between the Mistral 7B 4-bit model and PEFT techniques h
 
 - [Unsloth Repository](https://github.com/unslothai/unsloth)
 
----
-
-Feel free to replace placeholders with actual links and further refine the README as needed.
